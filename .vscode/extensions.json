@@ -1,0 +1,13 @@
+//Obs.: Essa pasta é para por em cada projeto, para que o vscode possa sugerir as extensões necessárias para o projeto, caso o usuário não tenha instalado.
+
+{
+    "recommendations": [
+      "ms-dotnettools.csdevkit",
+      "ms-dotnettools.csharp",
+      "ms-python.python",
+      "ms-python.vscode-pylance",
+      "eamodio.gitlens",
+      "GitHub.copilot",
+      "GitHub.copilot-chat" 
+    ]
+}
